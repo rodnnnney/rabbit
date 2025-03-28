@@ -37,7 +37,7 @@ This will:
 node receive.js
 ```
 
-2. Send the file name you want to fetch (Change base_url to desired folder on local device):
+2. Send the file name you want to fetch (Change `BASE_URL` to desired folder on local device):
 
 ```bash
 Ready to send messages. Enter filenames or "exit" to quit.
